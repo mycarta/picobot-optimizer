@@ -258,7 +258,9 @@ This is primarily an educational/archival project, but suggestions and improveme
 
 This project is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - see the [LICENSE](LICENSE) file for details.
 
-This matches the license used by Harvey Mudd College for their CS5 course materials, which this project builds upon.
+**Why this license?**
+
+This project builds upon Harvey Mudd College's CS5 course materials, which introduced the Picobot problem and provided the original problem specification. HMC licenses their CS5 materials under CC BY-NC-SA 4.0, explicitly stating "you're welcome to share and adapt these materials, with attribution, non-commercially. Even Picobot!" By using the same license, we honor their educational mission, ensure proper attribution, and maintain the spirit of open educational resources. This keeps the work freely available for learning while preventing commercial exploitation.
 
 **Attribution:**
 - Original Picobot concept: Harvey Mudd College CS for All course
