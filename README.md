@@ -1,7 +1,7 @@
 # Picobot Optimizer
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 **Revisiting decade-old Picobot solutions from Harvey Mudd's CS for All course**
 
@@ -256,9 +256,14 @@ This is primarily an educational/archival project, but suggestions and improveme
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) file for details.
+This project is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - see the [LICENSE](LICENSE) file for details.
 
-Original Picobot concept © Harvey Mudd College.
+This matches the license used by Harvey Mudd College for their CS5 course materials, which this project builds upon.
+
+**Attribution:**
+- Original Picobot concept: Harvey Mudd College CS for All course
+- Solutions (2015): Matteo Niccoli  
+- Simulator implementation (2026): Matteo Niccoli with Claude AI
 
 ---
 
