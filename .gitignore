@@ -64,6 +64,7 @@ venv.bak/
 
 # Local workflow files
 .github/
+docs/
 
 # Jupyter Notebook
 .ipynb_checkpoints
