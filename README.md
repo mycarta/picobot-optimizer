@@ -233,7 +233,7 @@ This represents a collaboration between human insight and AI implementation:
 
 The goal: validate decade-old work, make it reproducible, and document the optimization thinking for others to learn from.
 
-**Related blog post:** [Coming soon]
+**Related blog post:** [Picobot Revisited: Optimizing a Tiny Robot’s Rules, Ten Years Later](https://mycartablog.com/2026/01/31/picobot-revisited-optimizing-a-tiny-robots-rules-ten-years-later/?amp=1)
 
 ---
 
